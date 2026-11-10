@@ -30,12 +30,9 @@ void times_table(void)
 			if (col < 9)
 			{
 				_putchar(',');
-				_putchar(' ');
-
 				if (result < 10)
-				{
 					_putchar(' ');
-				}
+				_putchar(' ');
 			}
 		}
 		_putchar('\n');
