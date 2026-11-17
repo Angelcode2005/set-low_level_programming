@@ -1,7 +1,3 @@
-# Low Level Programming
+# 0x04. C - More functions, more nested loops
 
-This repository contains C programming exercises.
-
-## 0x02-functions_nested_loops
-
-This directory contains exercises about functions and nested loops.
+This directory contains C programs that practice functions and nested loops.
